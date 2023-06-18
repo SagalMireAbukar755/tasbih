@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(84, 121, 121);
+}
+
+.boder{
+    margin-bottom: 15%;
+    width: 350px;
+    height: 300px;
+    margin-left: 35%;
+    margin-top: 10%;
+    border-radius: 20px;
+    background:rgb(234, 209, 172);
+
+}
+
+
+.main{
+
+    text-align: center;
+    padding-top: 15%;
+  
+
+}
+
+span{
+    font-size: 40px;
+    color: white;
+}
+
+.reset{
+    background-color: red;
+}
+
+button{
+    height: 40px;
+    background-color: green;
+    width: 100px;
+    border: none;
+    color:white;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+button:last-child{
+    background-color:blue;
+}
